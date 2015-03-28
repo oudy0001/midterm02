@@ -1,3 +1,0 @@
-# view AndroidManifest.xml #generated:6
--keep class ca.edumedia.oudy0001.midterm.CordovaApp { <init>(...); }
-
